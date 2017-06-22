@@ -2,6 +2,7 @@
 ## Title: Beastmaster
 ## Author: PoeticDragon
 ## Notes: Sorts the pet skills in the beast training window so its more logical.
+## Notes-ruRU: Сортирует умения питомца в более удобном порядке.
 ## OptionalDeps: 
 ## Dependencies:
 ## SavedVariables:
